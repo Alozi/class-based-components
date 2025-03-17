@@ -19,7 +19,7 @@ class Users extends Component {
   }
 
   render() {
-    console.log(this.state.showUsers);
+    // console.log(this.state.showUsers);
 
     const usersList = (
       <ul>
